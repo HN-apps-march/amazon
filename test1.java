@@ -1,4 +1,0 @@
-helo
-hi 
-GM
-asgdsagkdg
